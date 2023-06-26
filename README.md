@@ -20,7 +20,7 @@ I am a Swift Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - I'm studying Swift language and try to immerse into iOS development as deep as possible
 - In my free time i prefer to do something useful, e.g. running, going for a walk, study English or something else 
 - You can see part of my life in my Instagram account, which reference is above
-- :mailbox:How to reach me: **esplusnin94@yandex.ru**
+- :mailbox: How to reach me: **esplusnin94@yandex.ru**
 
 <div align="center">
 <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="600" height="300"/>
