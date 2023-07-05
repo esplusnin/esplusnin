@@ -5,7 +5,7 @@
 ### :man_technologist: About Me :
 
 My name is Evgenii and I am a Swift Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- I study a Swift language and try to immerse into iOS development as deep as possible
+- I study the Swift language and try to immerse into iOS development as deep as possible
 - In my free time I prefer to do something useful and pleasant 🤠
 - You can see part of my life in my Instagram account, which is pointed below
 
