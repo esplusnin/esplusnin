@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне :
 
-My name is Evgenii and I am a Swift Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- I study the Swift language and try to immerse into iOS development as deep as possible
-- In my free time I prefer to do something useful and pleasant :)
-- You can see part of my life in my Instagram account, which is pointed below
+Меня зовут Евгений и я iOS - Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Я изучаю язык Swift и пишу приложение на iOS
+- В свободное время люблю бегать и учусь игре на барабанах.
+- Вы можете поближе познакомиться со мной в моем Instagram 
 
-How to reach me:
+Как связаться со мной:
 + :mailbox: **esplusnin94@yandex.ru**
 + :calling: telegram: @esplusnin
 
@@ -25,6 +25,6 @@ How to reach me:
 <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="500" height="250"/>
 
 ---
-### :fire: My Stats :
+### :fire: Статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esplusnin&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
