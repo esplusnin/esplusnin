@@ -19,8 +19,3 @@
 
 <div align="center">
 <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="500" height="250"/>
-
----
-### :fire: Статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esplusnin&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
