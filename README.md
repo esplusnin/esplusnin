@@ -16,6 +16,3 @@
    <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=esplusnin&style=plastic&color=blue" alt=""/>
 <h1>
-
-<div align="center">
-<img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="500" height="250"/>
