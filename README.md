@@ -1,9 +1,9 @@
-Привет! Меня зовут Евгений и я iOS - Разработчик :man_technologist:
-- Пишу на языке Swift под iOS
-- В свободное время люблю бегать и учусь игре на барабанах.
-- Вы можете поближе познакомиться со мной в моем Instagram 
+Hi! My name is Evgeni and I'm a passionate iOS - Developer :man_technologist:
+- I write iOS - application
+- In my free time I like running  
+- You are able to greet me closer from the link below:
 
-Как связаться со мной:
+Contacts:
 + :mailbox: **esplusnin94@yandex.ru**
 + :calling: telegram: @esplusnin
 
