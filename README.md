@@ -1,5 +1,5 @@
 Hi! My name is Evgeni and I'm a iOS - Developer :man_technologist:
-- I create and support iOS - application
+- I create and maintain iOS - applications
 - In my free time I like running  
 - You are able to greet me closer from the link below:
 
